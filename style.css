@@ -1,0 +1,2 @@
+.col {border: 1px seagreen; background-color: skyblue;}
+div [class*="col-"]{border:1px solid pink}
